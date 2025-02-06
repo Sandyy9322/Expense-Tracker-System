@@ -1,4 +1,4 @@
-# Expense Tracker App
+# Expense Tracker System
 
 ## Overview
 This Expense Tracker application helps users manage their finances by allowing them to log expenses, categorize spending, and generate insightful reports. The system supports secure authentication, a responsive interface, and a detailed dashboard for tracking expenses effectively.
